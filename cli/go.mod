@@ -25,7 +25,6 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/pyr-sh/dag v1.0.0
 	github.com/sabhiram/go-gitignore v0.0.0-20201211210132-54b8a0bf510f
-	github.com/sourcegraph/go-diff v0.6.1
 	github.com/spf13/afero v1.8.2
 	github.com/spf13/cobra v1.3.0
 	github.com/stretchr/testify v1.7.0
@@ -57,7 +56,7 @@ require (
 	github.com/posener/complete v1.2.3 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa // indirect
-	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf // indirect
 	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
